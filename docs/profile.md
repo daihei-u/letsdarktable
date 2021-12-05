@@ -26,7 +26,7 @@ Dai
 |Lens||
 |GPS|有り|  
 
-<br><br><br>
+<br><br>
 
 |Desktop|自作PC|
 |:---|:---|
@@ -40,6 +40,9 @@ Dai
 
 |Laptop|ASUS Zenbook S UX591|
 |:---|:---|
-|CPU|Intel i7 Gen8|  
+|CPU|Intel i7 Gen8|
+|OS|UBUNTU STUDIO (20.04)|  
+
+<br>
 
 [戻る](index.md)
