@@ -9,8 +9,6 @@ Dai
 
 大人になってからのカメラ歴は、最初はFUJIのハニカムCCDのFujifileのFinePixSシリーズを購入したのですが、子供を撮っているときは気づかなかったもの、ある日イルカショー行ってイルカのジャンプの写真をとったらイルカが全くフレームに入らなくて驚いたところから、一眼レフの購入が始まる。当時高速シャッタースピードをうたっていたCANON 20Dを購入し、次に7Dを型落ちで買い替え今に至ります。カメラ沼とかレンズ沼とかには落ちず、７DとSigmaのレンズ愛用中。でも携帯で写真をとったほうが綺麗に撮れる素人カメラ愛好家w    
 
-**TTTTT**
-
 
 |Main Camera|CANON 7D|
 |:---|:---|
@@ -18,15 +16,15 @@ Dai
 |Lens|Sigma|
 |Lens|Sigma 70-300mm F4-5.6 DG (オートフォーカス故障)|
 |Lens|IrIx 11 F4|
-
 <br>
-
-
 
 |Mobile|xperia5|
 |:---|:---|
-
-<br><br>
+|Lens||
+|Lens||
+|Lens||
+|GPS|有り|
+<br><br><br>
 
 |Desktop|自作PC|
 |:---|:---|
@@ -35,11 +33,10 @@ Dai
 |Memory|32GB|
 |Monitor|SAMSUNG U28E590D|
 |OS|UBUNTU STUDIO (20.04)|  
-
 <br>
 
 |Laptop|ASUS Zenbook S UX591|
 |:---|:---|
- 
+|CPU|Intel i7 Gen8| 
 
 [戻る](index.md)
