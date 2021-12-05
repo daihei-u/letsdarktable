@@ -57,6 +57,7 @@ Darktableには6つのViewがあり、これらを切り替えて使います。
 
 
 ## ワークフロー
+<img width="480" alt="architecture" src="images/img001_008.jpg">
 
 ## Darktableに関係するファイル
 <img width="480" alt="architecture" src="images/img001_001.jpg">
