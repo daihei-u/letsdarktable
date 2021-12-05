@@ -15,7 +15,8 @@ Dai
 |Lens|Sigma DC 17-50mm F2.8 EXS HSM|
 |Lens|Sigma|
 |Lens|Sigma 70-300mm F4-5.6 DG (オートフォーカス故障)|
-|Lens|IrIx 11 F4|
+|Lens|IrIx 11 F4|  
+
 <br>
 
 |Mobile|xperia5|
@@ -23,7 +24,8 @@ Dai
 |Lens||
 |Lens||
 |Lens||
-|GPS|有り|
+|GPS|有り|  
+
 <br><br><br>
 
 |Desktop|自作PC|
@@ -33,10 +35,11 @@ Dai
 |Memory|32GB|
 |Monitor|SAMSUNG U28E590D|
 |OS|UBUNTU STUDIO (20.04)|  
+
 <br>
 
 |Laptop|ASUS Zenbook S UX591|
 |:---|:---|
-|CPU|Intel i7 Gen8| 
+|CPU|Intel i7 Gen8|  
 
 [戻る](index.md)
